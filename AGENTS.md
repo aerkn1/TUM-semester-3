@@ -4,7 +4,7 @@ This workspace continues the study workflow in `../TUM-semester-2/` for TUM Mast
 
 ## Course folders and source hierarchy
 
-The currently confirmed course is `game-theory/`. Add another course folder only when the user names that lecture; `scripts/add-course.py` creates the same structure. Every course has `raw/` for original materials, `wiki/` for generated study artifacts, and a course `AGENTS.md`. At the wiki root keep `_course-logistics.md` and `_course-knowledge-graph.md`. For each processed topic use a same-slug folder with `<slug>.md`, `CONTEXT.md`, and dated active-recall session files. Do not mix prior-semester courses or review state into this workspace.
+The currently confirmed courses are `game-theory/` and `digital-business-models/`. Add another course folder only when the user names that lecture; `scripts/add-course.py` creates the same structure. Every course has `raw/` for original materials, `wiki/` for generated study artifacts, and a course `AGENTS.md`. At the wiki root keep `_course-logistics.md` and `_course-knowledge-graph.md`. For each processed topic use a same-slug folder with `<slug>.md`, `CONTEXT.md`, and dated active-recall session files. Do not mix prior-semester courses or review state into this workspace.
 
 Course source material is authoritative for what the lecturer taught. `wiki/_course-logistics.md` is the local source for confirmed administration and exam guidance. Distinguish directly stated facts, standard-domain enrichment, and inference. Never invent exam rules, grading, dates, results, or user answers.
 
